@@ -9,3 +9,10 @@ delicados,
 los siete,
 pintan el cielo 
 indulgentes.
+
+Amarillo
+Rojo
+Azul
+Verde
+Naranja
+Violeta
