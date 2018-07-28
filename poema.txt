@@ -16,3 +16,4 @@ Azul
 Verde
 Naranja
 Violeta
+Rosa
